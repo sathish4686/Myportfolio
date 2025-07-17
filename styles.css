@@ -37,7 +37,6 @@ ul {
     list-style: none;
 }
 
-
 img {
     max-width: 100%;
     height: auto;
@@ -50,9 +49,6 @@ img {
     padding: 0 15px;
 }
 
-    
-
-
 .btn {
     display: inline-block;
     background: var(--primary-color);
@@ -63,8 +59,6 @@ img {
     transition: var(--transition);
     border: none;
     cursor: pointer;
-    
-    
 }
 
 .btn:hover {
